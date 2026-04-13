@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative AI, DVBI (INTL), C++, Java, and advanced Algorithms**
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
+- 👨‍💻 All of my projects are available at my GitHub repositories.
 
 - 📫 How to reach me **ddmiguel909@gmail.com**
 
