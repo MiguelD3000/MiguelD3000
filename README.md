@@ -1,6 +1,6 @@
 # About Me
 <h1 align="center">Hi 👋, I'm Miguel Ivan Diaz</h1>
-<h3 align="center">A dedicated Aspiring Full-Stack Software Developer</h3>
+<h3 align="center">A dedicated Full-Stack Software Developer</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
